@@ -1,7 +1,5 @@
 Here is a short summary of the questions and solutions.
 
----
-
 ## Jump
 #### Problem Description
 A frog starts on the first stone out of $n$ stones of varying heights and wants to reach the last ($n$-th) stone with the minimum possible total energy. From any stone $i$, the frog can jump to any of the next stones from $i+1$ up to $i+k$, where $k$ is a given constant. The energy consumed by a jump from stone $i$ to stone $j$ is equal to the absolute difference in their heights, $\vert{}height(i) - height(j)\vert{}$.
